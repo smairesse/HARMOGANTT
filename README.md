@@ -1,2 +1,2 @@
-# HARMOGANTT
+# HarmoGantt
 Gantt project
